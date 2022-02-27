@@ -1,0 +1,24 @@
+body
+{
+	background-color:white;
+}
+h1
+{
+    text-align:center;
+}
+h2
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+}
+.news
+{
+    width:100%;
+}
